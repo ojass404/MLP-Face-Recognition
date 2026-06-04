@@ -1,0 +1,16 @@
+Technologies Used
+
+Python
+Jupyter Notebook
+Libraries:
+scikit-learn (MLPClassifier, PCA, LDA)
+OpenCV (cv2)
+NumPy
+Matplotlib
+Model Architecture
+
+MLP Neural Network with:
+Input layer: 150 PCA components
+Hidden layers: (10, 10) neurons
+Output layer: Number of classes
+Maximum iterations: 1000
